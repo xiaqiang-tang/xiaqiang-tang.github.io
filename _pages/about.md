@@ -8,12 +8,14 @@ redirect_from:
 ---
 
 
-I am an incoming Ph.D. candidate at the Hong Kong University of Science and Technology (Guangzhou), starting in September this year, under the guidance of Professor Xie Sihong. My research interest revolves around the development of reliable large language models, such as Retrieval-Augmented Generation (RAG). I am dedicated to exploring and advancing the capabilities of language models to ensure they are not only powerful but also dependable and safe for widespread application. 
+I am an incoming Ph.D. candidate at the Hong Kong University of Science and Technology (Guangzhou), starting in September this year, under the guidance of Professor Xie Sihong. 
 
 I obtain a Bachelor degree from Hefei University of Technology in 2017, followed by a Master of Science from Tongji University in 2021. 
 
 Research Interests
 ======
+My research interest revolves around the development of reliable large language models, such as Retrieval-Augmented Generation (RAG). I am dedicated to exploring and advancing the capabilities of language models to ensure they are not only powerful but also dependable and safe for widespread application. 
+
 My goal is to address and mitigate the challenges associated with the reliability of large-scale language models, such as bias, fairness, and robustness, by integrating innovative retrieval mechanisms that enhance their performance and trustworthiness. This research direction is crucial for the future of AI, aiming to create models that can be confidently deployed in various sectors, including but not limited to healthcare, finance, and education, to bring about substantial societal benefits. 
 
 I am eager to collaborate with like-minded researchers and industry professionals who are passionate about pushing the boundaries of what AI can achieve in terms of reliability and ethical considerations.
