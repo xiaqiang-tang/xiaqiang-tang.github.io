@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Hefei University of Technology, 2017
 * M.S. in Tongji University, 2021
-* Ph.D in Hong Kong University of Science and Technology (Guangzhou), 2027 (expected)
+* Ph.D in Hong Kong University of Science and Technology (Guangzhou), 2024 - 2027 (expected)
 
 Work experience
 ======
