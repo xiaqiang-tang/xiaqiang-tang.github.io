@@ -18,7 +18,8 @@ Education
 Work experience
 ======
 * Summer 2015: Large vision model intern
-  * Shanghai AI lab
+* Shanghai AI lab
+
 <!-- 
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -26,8 +27,8 @@ Work experience
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
--->
+  * Supervisor: Professor Hub -->
+
 
 Skills
 ======
