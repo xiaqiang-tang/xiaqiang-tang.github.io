@@ -12,9 +12,15 @@ I am an incoming Ph.D. candidate at the Hong Kong University of Science and Tech
 
 I obtain a Bachelor degree from Hefei University of Technology in 2017, followed by a Master of Science from Tongji University in 2021. 
 
+Research Interests
+======
 My goal is to address and mitigate the challenges associated with the reliability of large-scale language models, such as bias, fairness, and robustness, by integrating innovative retrieval mechanisms that enhance their performance and trustworthiness. This research direction is crucial for the future of AI, aiming to create models that can be confidently deployed in various sectors, including but not limited to healthcare, finance, and education, to bring about substantial societal benefits. 
 
 I am eager to collaborate with like-minded researchers and industry professionals who are passionate about pushing the boundaries of what AI can achieve in terms of reliability and ethical considerations.
+
+
+News
+======
 
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).-->
