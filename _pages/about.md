@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am an incoming Ph.D. student at the Hong Kong University of Science and Technology (Guangzhou), starting in September this year, under the guidance of Professor Xie Sihong. 
+I am an incoming Ph.D. student at the Hong Kong University of Science and Technology (Guangzhou), starting in September  2024, under the guidance of Professor Xie Sihong. 
 
 I obtain a Bachelor degree from Hefei University of Technology in 2021, followed by a Master of Science from Tongji University. 
 
