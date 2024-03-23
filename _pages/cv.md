@@ -17,8 +17,10 @@ Education
 
 Work experience
 ======
-* Summer 2015: Large vision model intern
-* Shanghai AI lab
+* Summer 2024: Intern at Tencent AI lab
+
+* Summer 2022: Large vision model intern at Shanghai AI lab
+  
 
 <!-- 
   * Duties included: Tagging issues
